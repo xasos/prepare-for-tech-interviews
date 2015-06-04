@@ -83,8 +83,8 @@ var q = [
 
 // Tips
 var tips = [
-	'Try to have quick and concise answers.',
-	'Try to answer in 2 to 3 sentences.',
+	'Smile! Be greatful for the opportunity. A smile goes a long way.',
+	'Don\'t be arrogant. No one appreciates someone who .',
 	'Answer like you would in a conversation, this is not a presentation.',
 	'When talking to PG and the other YC partners, be substantive, and get straight to the point.',
 	'DO NOT BEAT AROUND THE BUSH. Do not hem and haw. "Uhm"s and "uh"s don&#39;t lend an aura of intelligence.',
